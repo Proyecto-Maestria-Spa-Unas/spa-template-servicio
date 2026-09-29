@@ -8,7 +8,7 @@ Plantilla para incorporar un nuevo servicio o una nueva tecnología a la platafo
 * Uvicorn
 * SQLAlchemy
 * Pydantic Settings
-* Python-JOSE (JWT)
+* PyJWT (JWT)
 * Python-dotenv
 
 ## 🧩 Crear un servicio a partir de esta plantilla
